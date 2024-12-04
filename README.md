@@ -1,3 +1,3 @@
-- Compile and run the project using; 
-  $ gcc -o ./src/main ./src/main.c
-  $ ./src/main
+#### Hikari-DB
+- Hikari in Japanese means light.
+- I chose this name as a beginning to something creative and exciting that I get to build and hopefully be used by other people in future.
