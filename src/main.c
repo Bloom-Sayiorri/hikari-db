@@ -1,12 +1,12 @@
 #include <stdio.h>
 
-int main()
-{
+void innitDb() {
+    // open the db if successfful else display an error
+    printf("DB Created Successfully!");
+}
+
+int main() {
     printf("Hello World!\n");
-    int a = 1;
-    int b = 2;
-    printf("%d\n", a + b);
-    // int i = 1;
-    // printf("%d %d %d %d\n", i++, i++, i++, i);
+    innitDb();
     return 0;
 }
